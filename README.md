@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Shantal Soriano
-- 👀 I’m interested in became a junior programmer
-- 🌱 I’m currently learning html, css and java script
-- 💞️ I’m looking to collaborate on websites 
-- 📫 How to reach me: ShantalSoriano05@gmail.com
+- 👋 Hi, my name is Shantal Soriano.
+- 👀 I’m interested in becoming a web developer.
+- 🌱 I’m currently learning HTML and CSS.
+- 💞️ I’m looking to collaborate with people who share the same interests. 
+- 📫 You can reach me at: ShantalSoriano05@gmail.com
 
 <!---
 ShantalSoriano/ShantalSoriano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
