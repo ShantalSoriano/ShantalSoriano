@@ -1,6 +1,4 @@
 - 👋 Hi, my name is Shantal Soriano.
-- 👀 I’m interested in becoming a web developer.
-- 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate with people who share the same interests. 
 - 📫 You can reach me at: ShantalSoriano05@gmail.com
 
